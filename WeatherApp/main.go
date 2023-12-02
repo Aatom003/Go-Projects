@@ -15,7 +15,7 @@ type apiConfigData struct {
 
 // Configuration with your OpenWeather API key
 var config = apiConfigData{
-	OpenWeatherApiKey: "03b5533d80e05e933cf39deb345d6381", // Add your OpenWeather API key here
+	OpenWeatherApiKey: "YOUR_OPENWEATHER_API_KEY", // Add your OpenWeather API key here
 }
 
 // Struct to represent the JSON response from OpenWeatherMap
