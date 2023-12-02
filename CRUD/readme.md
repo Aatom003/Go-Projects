@@ -27,7 +27,7 @@ This project aims to create a simple CRUD application for managing a list of mov
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movies-crud-app.git
+   git clone https://github.com/Aatom003/Go-Projects.git
    cd CRUD
    ```
 
