@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+.weather-app {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.search-box {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+button {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.weather-info {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+/* Basic styles for weather data display */
+.weather-data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.weather-icon {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.weather-desc {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.temperature,
+.humidity,
+.pressure {
+  margin-top: 5px;
+  font-size: 16px;
+}
