@@ -1,6 +1,6 @@
 
 
-```markdown
+---
 # Weather App
 
 This Weather App provides current weather information based on user-provided city names. It uses the OpenWeatherMap API to fetch weather data.
@@ -65,8 +65,7 @@ This Weather App provides current weather information based on user-provided cit
 - **OpenWeatherMap API**: Used to fetch weather data.
 - **Weather Icons Library**: The app uses the Weather Icons library for weather icons. You can find it [here](https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.12/css/weather-icons.min.css).
 
-## Acknowledgments
+# Acknowledgments
 
-This Weather App is developed as a learning project and utilizes the OpenWeatherMap API for weather data retrieval. Feel free to use, modify, and enhance it according to your requirements.
-
-```
+- This Weather App is developed as a learning project and utilizes the OpenWeatherMap API for weather data retrieval. Feel free to use, modify, and enhance it according to your requirements.
+---
