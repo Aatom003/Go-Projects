@@ -1,4 +1,4 @@
-Absolutely! Here's a detailed `README.md` file explaining the Weather App setup and functionalities:
+
 
 ```markdown
 # Weather App
